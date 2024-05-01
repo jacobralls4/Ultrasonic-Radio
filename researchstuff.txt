@@ -1,0 +1,51 @@
+impedence analyzer
+
+active frequency analyzer with multiple speakers
+
+a/d encyption
+
+
+1. calibration(spectrum analysis)
+2. bandpass filter
+3. testing
+
+
+1. modulation theory
+2. encryption
+3. playback
+4. filter output signal to the input receiver
+
+1. class e amplifier
+2. rectifier
+3. storage for power
+4. (add solar power)
+
+
+integrated circuits for analog signal processing -Tlelo-Cuautle (Author)
+
+
+meet monday at 1pm
+
+
+hypersonic radio
+transducer
+electronic communication robert L shrader
+
+-electronic communication theory
+freq modulation
+phase modulation
+multiple channels 
+encoding
+
+mixer sends to other freq
+
+5V 
+.5 A
+3.3kHz bands
+
+get moduator and demodulator
+get altium
+figure 
+get everything done in october
+first look at acoustic transducers
+maybe 50 feet of range
